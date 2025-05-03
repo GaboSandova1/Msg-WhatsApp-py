@@ -1,25 +1,29 @@
-Date: 2/5/2025
-Time: 9:9
-Phone Number: +584243811068
-Message: Hello from Python!
+Aqui se guardara como el historial de los mensajes que envies, a quien y la hora:
+
+Date: 3/5/2025
+Time: 18:6
+Phone Number: +584123694367
+Message: Alo
 --------------------
-Date: 2/5/2025
-Time: 9:12
-Phone Number: +584243811068
-Message: Hello from Python!
+Date: 3/5/2025
+Time: 18:7
+Phone Number: +584123694367
+Message: Alo
 --------------------
-Date: 2/5/2025
-Time: 9:16
-Phone Number: +584243811068
-Message: Hello from Python!
+Date: 3/5/2025
+Time: 18:11
+Phone Number: +584265336990
+Message: Alo
 --------------------
-Date: 2/5/2025
-Time: 9:18
+Date: 3/5/2025
+Time: 18:25
 Phone Number: +584243811068
-Message: Hello from Python!
+Image: pedroGay.jpg
+Caption: Aquí está la imagen que pediste
 --------------------
-Date: 2/5/2025
-Time: 9:21
+Date: 3/5/2025
+Time: 18:27
 Phone Number: +584243811068
-Message: No c q poner xd
+Image: pedroGay.jpg
+Caption: 
 --------------------
